@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/camille-bueno-07a4a0229/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
- ### Main skills:
+ ### Principais Habilidades:
 
 ![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFF00)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -24,7 +24,7 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
-### Studying in this moment:
+### Estudando no momento:
 ![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFF00)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3793C9&height=100&section=footer"/>
