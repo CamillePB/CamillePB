@@ -13,7 +13,7 @@
 <div align="end"> 
 <a href="https://instagram.com/caz_pb"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "camille.pedro.bueno@hotmail.com"> <img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-<a href="https://www.linkedin.com/in/camille-bueno-07a4a0229/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/camillepbueno/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
  ### Principais Habilidades:
