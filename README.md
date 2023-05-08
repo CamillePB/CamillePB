@@ -4,17 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CamillePB&bg_color=0d1117&color=5ABDF6&line=99CCCC&point=A5FFAB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CamillePB&show_icons=true&count_private=true&hide_border=true&title_color=5ABDF6&icon_color=E1E1E1&text_color=99CCCC&bg_color=0d1117" alt="Camille status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillePB&layout=compact&hide_border=true&title_color=E1E1E1&text_color=E1E1E1&bg_color=0d1117" />
-</div>
 
-<br>
-<div align="end"> 
-<a href="https://instagram.com/caz_pb"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "camille.pedro.bueno@hotmail.com"> <img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-<a href="https://www.linkedin.com/in/camillepbueno/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
  
  ### Principais Habilidades:
 
