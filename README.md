@@ -23,9 +23,9 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=759159)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
-<div align="center"> 
+<div align="start"> 
 <a href = "mailto:camille.pedro.bueno@hotmail.com"> <img src="https://img.shields.io/badge/--A80000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href=" https://www.linkedin.com/in/camillepbueno/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/camillepbueno/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3793C9&height=100&section=footer"/>
