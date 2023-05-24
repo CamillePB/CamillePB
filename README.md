@@ -18,10 +18,16 @@
 
 ### Estudando no momento:
 ![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFF00)&nbsp;
-![React.js](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=openReact&logoColor=FFFF00)&nbsp;
 ![React.js](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=759159)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+
+<div align="start">
+  <a href="https://github.com/CamillePB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillePB&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div align="start"> 
 <a href = "mailto:camille.pedro.bueno@hotmail.com"> <img src="https://img.shields.io/badge/--A80000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
