@@ -12,7 +12,6 @@
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFFF00)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
 ![React.js](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=759159)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
 
@@ -21,7 +20,6 @@
 ![React.js](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=759159)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 
 <div align="start">
