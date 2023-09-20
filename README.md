@@ -35,7 +35,7 @@
 [![BlogPessoal](https://github-readme-stats.vercel.app/api/pin/?username=CamillePB&repo=blogpessoal&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/blogpessoal)
 [![SaudeCheckUp](https://github-readme-stats.vercel.app/api/pin/?username=CamillePB&repo=saudeCheckupFrontend&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/saudeCheckupFrontend)
 [![QuarentenaTech](https://github-readme-stats.vercel.app/api/pin/?username=CamillePB&repo=QuarentenaTech&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/QuarentenaTech)
-[![BlogAngular](https://github-readme-stats.vercel.app/api/pin/?username=CamillePB&repo=PetShop&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/angular-blog)
+[![BlogAngular](https://github-readme-stats.vercel.app/api/pin/?username=CamillePB&repo=angular-blog&bg_color=0D1117&border_color=3793C9&show_icons=true&icon_color=30A3DC&title_color=61DAFB&text_color=FFF)](https://github.com/CamillePB/angular-blog)
 
 ### Contato
 <div align="start"> 
